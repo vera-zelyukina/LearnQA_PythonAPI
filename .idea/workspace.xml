@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3f4dd71-98e6-4589-a4f1-01a90c4fb9c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/method_header.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_agent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,35 +31,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python tests.Python tests in method_header.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Requests_and_methods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.get-zapros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hello_from.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.method_cookie.executor&quot;: &quot;Run&quot;,
-    &quot;Python.parsing_json.executor&quot;: &quot;Run&quot;,
-    &quot;Python.password selection.executor&quot;: &quot;Run&quot;,
-    &quot;Python.phrase.executor&quot;: &quot;Run&quot;,
-    &quot;Python.redirect.executor&quot;: &quot;Run&quot;,
-    &quot;Python.requests_and_methods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tokens.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/Documents/LearnQA_PythonAPI&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in method_header.py.executor": "Run",
+    "Python.Requests_and_methods.executor": "Run",
+    "Python.get-zapros.executor": "Run",
+    "Python.hello_from.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.method_cookie.executor": "Run",
+    "Python.parsing_json.executor": "Run",
+    "Python.password selection.executor": "Run",
+    "Python.phrase.executor": "Run",
+    "Python.redirect.executor": "Run",
+    "Python.requests_and_methods.executor": "Run",
+    "Python.tokens.executor": "Run",
+    "Python.user_agent.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Dell/Documents/LearnQA_PythonAPI",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -75,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1755761387678</updated>
       <workItem from="1755761389180" duration="39426000" />
-      <workItem from="1756890330712" duration="21157000" />
+      <workItem from="1756890330712" duration="25869000" />
     </task>
     <servers />
   </component>
@@ -83,6 +85,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LearnQA_PythonAPI$user_agent.coverage" NAME="user_agent Coverage Results" MODIFIED="1757403550963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearnQA_PythonAPI$Requests_and_methods.coverage" NAME="Requests_and_methods Coverage Results" MODIFIED="1756637573038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearnQA_PythonAPI$.coverage" NAME=" Coverage Results" MODIFIED="1757344377458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearnQA_PythonAPI$hello_from.coverage" NAME="hello_from Coverage Results" MODIFIED="1755770219060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

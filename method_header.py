@@ -15,7 +15,8 @@ class TestMethodHeader:
                 for key, value in expected_headers.items():
                     assert key in actual_headers, f"Заголовок '{key}' избыточный в ответе"
         else:
-            for key, value in expected_headers.items():
+            for key, value in actual_headers.items():
+                assert key in actual_headers, f"Заголовок '{key}' отличается от ожидаемого"
                 if key == "Date": continue
                 if key == "Expires": continue
                 assert actual_headers.get(key) == expected_headers.get(key), f"Значение '{key}' не корректное"
