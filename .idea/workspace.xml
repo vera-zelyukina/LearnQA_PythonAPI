@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3f4dd71-98e6-4589-a4f1-01a90c4fb9c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/user_agent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/assertions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/base_case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_first_API.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_user_auth.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_agent.py" beforeDir="false" afterPath="$PROJECT_DIR$/user_agent.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +42,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python tests.Python tests in method_header.py.executor": "Run",
+    "Python tests.Python tests in user_agent.py.executor": "Run",
     "Python.Requests_and_methods.executor": "Run",
     "Python.get-zapros.executor": "Run",
     "Python.hello_from.executor": "Run",
@@ -61,6 +69,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\Documents\LearnQA_PythonAPI\tests" />
+      <recent name="C:\Users\Dell\Documents\LearnQA_PythonAPI\lib" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -77,7 +91,8 @@
       <option name="presentableId" value="Default" />
       <updated>1755761387678</updated>
       <workItem from="1755761389180" duration="39426000" />
-      <workItem from="1756890330712" duration="25869000" />
+      <workItem from="1756890330712" duration="27200000" />
+      <workItem from="1757497035658" duration="23885000" />
     </task>
     <servers />
   </component>
@@ -85,9 +100,9 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/LearnQA_PythonAPI$user_agent.coverage" NAME="user_agent Coverage Results" MODIFIED="1757403550963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearnQA_PythonAPI$user_agent.coverage" NAME="user_agent Coverage Results" MODIFIED="1757497291209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearnQA_PythonAPI$Requests_and_methods.coverage" NAME="Requests_and_methods Coverage Results" MODIFIED="1756637573038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LearnQA_PythonAPI$.coverage" NAME=" Coverage Results" MODIFIED="1757344377458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LearnQA_PythonAPI$.coverage" NAME=" Coverage Results" MODIFIED="1757677648263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearnQA_PythonAPI$hello_from.coverage" NAME="hello_from Coverage Results" MODIFIED="1755770219060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearnQA_PythonAPI$get_zapros.coverage" NAME="get-zapros Coverage Results" MODIFIED="1755772494827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LearnQA_PythonAPI$parsing_json.coverage" NAME="parsing_json Coverage Results" MODIFIED="1756468695619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

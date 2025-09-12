@@ -1,3 +1,4 @@
+ua-parser
 allure-pytest
 requests
 pytest
